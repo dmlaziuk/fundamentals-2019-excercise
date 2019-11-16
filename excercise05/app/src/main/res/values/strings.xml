@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Academy Minsk Movies</string>
+    <string name="avengers_endgame">Avengers: Endgame</string>
+    <string name="released">Released:</string>
+    <string name="date">April, 22 2019</string>
+    <string name="banner">banner</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="trailer_button">Movie trailer</string>
+    <string name="overview">Overview:</string>
+    <string name="overview_text">After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.</string>
+    <string name="youtube_video_id">hA6hldpSTF8</string>
+</resources>
